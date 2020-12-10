@@ -25,7 +25,11 @@
 
 ## 这个文档排版就是
 ##标题Tidying data
+
 然后code介绍一下要干嘛
+
 然后code
+
 然后分析或者说下一个code要干嘛
+
 然后code
