@@ -9,7 +9,7 @@
 
 
 ## 我想了一下你可以做什么，我其实就帮总结一下那个example 然后还有之前的project：
-### 1.Tidying and Modifying the Data (Tidy 我帮你做了)  2.Graph, data analysis
+### 1.Tidying and Modifying the Data (Tidy 我做了)  2.Graph, data analysis
 1. 一个大概的scatter plot,看一下趋势. total crime vs year 
 2. 大的violin plot 看一下每年的分布和总趋势 
 3. 看一下各种细的crime的占比或者他们的占比的改变的趋势 bar或者饼图之类的(data里有直接占比的不用算）
